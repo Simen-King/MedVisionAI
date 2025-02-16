@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedVision AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007bff;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        main {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MedVision AI</h1>
+        <p>Your AI Companion for Medical Insights</p>
+    </header>
+    <main>
+        <h2>About Us</h2>
+        <p>MedVision AI is a cutting-edge artificial, generate medical images, and provide insightful explanations. Our mission is to support patients, students, and professionals in the medical field.</p>
+        <h2>Features</h2>
+        <ul>
+            <li>Medical Image Generation</li>
+            <li>Treatment Recommendations</li>
+            <li>Educative Medical Responses</li>
+            <li>Interactive Audio Replies</li>
+        </ul>
+        <h2>Contact Us</h2>
+        <p>For more information, please email us at <a href="mailto:info@medvisionai.com">info@medvisionai.com</a></p>
+    </main>
+</body>
+</html>
