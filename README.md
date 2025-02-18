@@ -1,4 +1,4 @@
-# MedVision AI: Revolutionizing Medical Assistance
+# MedVision AI
 
 ## Problem
 Accessing and understanding medical information can be hard for patients, students, and professionals. Medical queries and the need for accurate medical images often require experts, making it less efficient to get information quickly.
