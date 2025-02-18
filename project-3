@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedVision AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>MedVision AI</h1>
+    
+    <p><img src="path_to_image/medvision_logo.png" alt="MedVision AI Logo"></p>
+    
+    <h2>Problem:</h2>
+    <p>The accessibility and understanding of medical knowledge can be challenging for patients, students, and professionals. Complex medical queries and the need for accurate medical images often require expert intervention, making information dissemination less efficient.</p>
+
+    <h2>AI Concept:</h2>
+    <p><img src="path_to_image/ai_concept.png" alt="AI Concept Illustration"></p>
+    <p>MedVision AI leverages advanced artificial intelligence to facilitate medical queries, generate precise medical images, and provide insightful explanations.</p>
+
+    <h2>Action/Use of AI:</h2>
+    <ul>
+        <li><strong>Medical Image Generation:</strong> Utilizes AI to create high-quality medical images based on user input.</li>
+        <p><img src="path_to_image/medical_image_generation.png" alt="Medical Image Generation"></p>
+        
+        <li><strong>Treatment Recommendations:</strong> Delivers evidence-based treatment advice tailored to individual patient needs.</li>
+        <p><img src="path_to_image/treatment_recommendations.png" alt="Treatment Recommendations"></p>
+        
+        <li><strong>Educative Medical Responses:</strong> Offers detailed and easy-to-understand answers to a wide range of medical questions.</li>
+        <p><img src="path_to_image/educative_responses.png" alt="Educative Medical Responses"></p>
+        
+        <li><strong>Interactive Audio Replies:</strong> Enhances accessibility by providing clear, concise audio responses.</li>
+        <p><img src="path_to_image/interactive_audio.png" alt="Interactive Audio Replies"></p>
+    </ul>
+
+    <h2>Impact:</h2>
+    <p>MedVision AI bridges the gap between medical knowledge and its users, making information accessible, understandable, and actionable. By harnessing AI's power, we support patients, students, and professionals, facilitating a deeper understanding and better-informed decisions in the medical field.</p>
+    <p><img src="path_to_image/impact.png" alt="Impact of MedVision AI"></p>
+</body>
+</html>
