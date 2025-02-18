@@ -43,14 +43,6 @@ MedVision AI transforms how medical information is accessed and used. By making 
 - **Efficient Healthcare Delivery:** Reduces the time and effort required to access and understand medical information, making healthcare delivery more efficient and effective.
 - **Global Reach:** Supports multiple languages and diverse user needs, making medical information accessible to people around the world.
 
-![MedVision AI Logo](path_to_image/medvision_logo.png)
-![AI Concept Illustration](path_to_image/ai_concept.png)
-![Medical Image Generation](path_to_image/medical_image_generation.png)
-![Treatment Recommendations](path_to_image/treatment_recommendations.png)
-![Educative Medical Responses](path_to_image/educative_responses.png)
-![Interactive Audio Replies](path_to_image/interactive_audio.png)
-![Impact of MedVision AI](path_to_image/impact.png)
-
 
 ## Our Mission
 
